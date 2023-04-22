@@ -2,5 +2,5 @@ MY PLAN
 -Membuat Web Profil diri sendiri
 -Membuat Web CRUD - Toko
 -Membuat WEB dengan API
--Membuat WebVisual COde
+-Membuat Webtampilan visual yang indah
 Belajar Framework
