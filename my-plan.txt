@@ -1,0 +1,3 @@
+MY PLAN
+-Membuat Web Profil diri sendiri
+-Membuat Web CRUD - Toko
