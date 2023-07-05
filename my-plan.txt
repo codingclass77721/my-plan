@@ -4,3 +4,6 @@ MY PLAN
 -Membuat WEB dengan API
 -Membuat Webtampilan visual yang indah
 Belajar Framework
+
+
+Buatkan pantun yang bersajak aaaa
